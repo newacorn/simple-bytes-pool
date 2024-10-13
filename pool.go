@@ -3,10 +3,10 @@ package bpool
 import (
 	"bufio"
 	"errors"
+	"github.com/newacorn/goutils/unsafefn"
 	"io"
 	"sync"
 	"unicode/utf8"
-	"utils/unsafefn"
 )
 
 const (
