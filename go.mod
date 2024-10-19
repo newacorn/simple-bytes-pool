@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/gookit/goutil v0.6.17
-	github.com/newacorn/goutils v0.0.0-20241014180724-f1de7f39d0f1
+	github.com/newacorn/goutils v0.0.0-20241019173925-1c4a12c3439b
 	github.com/xyproto/randomstring v1.0.5
 )
 

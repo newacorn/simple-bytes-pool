@@ -10,6 +10,8 @@ github.com/newacorn/goutils v0.0.0-20241013115147-7dd3b56752bb h1:TQEHLvqm26GUpq
 github.com/newacorn/goutils v0.0.0-20241013115147-7dd3b56752bb/go.mod h1:NsSKXgKzrgEUa+t0dACbtVmLThFdAc9evTDjVMyilLw=
 github.com/newacorn/goutils v0.0.0-20241014180724-f1de7f39d0f1 h1:0ROUVj1MbYBgxpogXRWFnSTKfi9k5s87Y0vriKWw668=
 github.com/newacorn/goutils v0.0.0-20241014180724-f1de7f39d0f1/go.mod h1:NsSKXgKzrgEUa+t0dACbtVmLThFdAc9evTDjVMyilLw=
+github.com/newacorn/goutils v0.0.0-20241019173925-1c4a12c3439b h1:ADkm6B8+9M63SU+aYdFCmXMSfS8Eaaox/Ve2KdKzlqI=
+github.com/newacorn/goutils v0.0.0-20241019173925-1c4a12c3439b/go.mod h1:NsSKXgKzrgEUa+t0dACbtVmLThFdAc9evTDjVMyilLw=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
