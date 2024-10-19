@@ -125,6 +125,13 @@ func (b *Bytes) WriteByte(c byte) error {
 	return nil
 }
 
+func (b *Bytes) UnWriteBytes(n int) {
+	if n > len(b.B) {
+		n = len(b.B)
+	}
+	b.B = b.B[:len(b.B)-n]
+}
+
 func (b *Bytes) Swap(new []byte) (old []byte) {
 	b.B, old = new, b.B
 	return
